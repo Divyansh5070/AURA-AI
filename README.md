@@ -150,6 +150,14 @@ app/src/main/java/com/chat/aichatbot/
 - Banner Ad: implemented with test ad unit
 - Debug APK build: verified
 
+## Demo Recording
+
+A screen recording of the app demo is included in the repository:
+
+- [Screen_recording_20260530_010240.webm](demo/Screen_recording_20260530_010240.webm)
+
+The file is fairly large, so GitHub may show a warning when viewing it directly in the browser. Downloading it from the repo should still work normally.
+
 ## License
 
 This project is currently private/proprietary unless a license file is added.
