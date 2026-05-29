@@ -1,0 +1,32 @@
+# Gradle / Android build output
+.gradle/
+.kotlin/
+build/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local machine and IDE files
+.idea/
+*.iml
+.DS_Store
+
+# Local secrets and signing material
+local.properties
+*.jks
+*.keystore
+keystore.properties
+google-services.json
+secrets.properties
+*.env
+.env
+.env.*
+
+# Generated artifacts
+*.apk
+*.aab
+*.ap_
+
+# Logs
+*.log

@@ -1,0 +1,6 @@
+## Copy this file to local.properties and fill in local-only values.
+## Do not commit local.properties.
+
+sdk.dir=/path/to/android/sdk
+GEMINI_API_KEY=
+GEMINI_MODEL=gemini-2.5-flash
